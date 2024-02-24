@@ -91,7 +91,7 @@
     "@socket.io/redis-adapter": "^8.2.1",
     "@supercharge/request-ip": "^1.2.0",
     "@travelerdev/nestjs-sentry": "^4.3.0",
-    "argon2": "^0.31.2",
+    "argon2": "^0.40.1",
     "cache-manager": "5.4.0",
     "cache-manager-ioredis-yet": "^1.2.2",
     "class-transformer": "^0.5.1",
